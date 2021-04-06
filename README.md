@@ -1,5 +1,5 @@
 # SUBE App
- Rediseño de la app SUBE hecha en flutter
+ Rediseño de la app SUBE hecha en Flutter
  
 # Getting Started
  Para instalar el proyecto se debe ejecutar el siguiente comando en la carpeta raíz del proyecto
